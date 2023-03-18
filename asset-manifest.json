@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/satisfactory-calculator/static/css/main.073c9b0a.css",
+    "main.js": "/satisfactory-calculator/static/js/main.dec1379e.js",
+    "static/js/787.54e729ad.chunk.js": "/satisfactory-calculator/static/js/787.54e729ad.chunk.js",
+    "static/media/logo.svg": "/satisfactory-calculator/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/satisfactory-calculator/index.html",
+    "main.073c9b0a.css.map": "/satisfactory-calculator/static/css/main.073c9b0a.css.map",
+    "main.dec1379e.js.map": "/satisfactory-calculator/static/js/main.dec1379e.js.map",
+    "787.54e729ad.chunk.js.map": "/satisfactory-calculator/static/js/787.54e729ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.dec1379e.js"
+  ]
+}
